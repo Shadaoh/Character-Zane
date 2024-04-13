@@ -1,0 +1,5 @@
+<costumes anm2root="gfx/characters/">
+  <costume id = "0" anm2path="zanehair.anm2" type="none" priority="0"/>
+</costumes>
+
+<!-- see (https://wofsauge.github.io/IsaacDocs/rep/xml/costumes2.html) for more info on the tags :) !-->
